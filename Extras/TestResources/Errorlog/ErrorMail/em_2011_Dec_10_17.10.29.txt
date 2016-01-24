@@ -1,0 +1,27 @@
+Timestamp is: 2011/Dec/10 17:10:29
+The Sender of this mail is: "NIKIRA@NIKIRAPP.MOBINIL.COM" <NIKIRA@NIKIRAPP.MOBINIL.COM>
+The Subject line is: MOBINIL: FULL(PAGE) MONITOR SUMMARY.  STATUS IS ERROR
+The error lines are as follows:- 
+
+Results for search text =3D (recorddispatcher)   =3D 5)!   
+
+****************************   DONE   *********************************
+
+Total number of errors are:0
+
+
+*************************************************************
+
+The mail filtering details are as follows:- 
+Senders name is:- not specified
+Subject is:- MOBINIL: FULL(PAGE) MONITOR SUMMARY.  STATUS IS ERROR
+
+
+*************************************************************
+
+The mail parsing details are as follows:- 
+Mail line specified by user should contain the string:- "PROCESS COUNT (0) IS NOT EQUAL"
+Sequence by which mail line should begin is:- "RESULTS FOR"
+Sequence by which mail line should end is:-  "!"
+
+*************************************************************

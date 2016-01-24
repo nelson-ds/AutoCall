@@ -1,0 +1,68 @@
+X-Account-Key: account2
+X-UIDL: 543
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+Received: from EX60.exchserver.com (10.7.5.154) by EX13-N05.exchserver.com
+ (10.7.40.162) with Microsoft SMTP Server id 8.3.159.2; Mon, 3 Oct 2011
+ 05:26:11 -0400
+Received: from poodle ([164.164.82.92]) by EX60.exchserver.com over TLS
+ secured channel with Microsoft SMTPSVC(6.0.3790.3959);	 Mon, 3 Oct 2011
+ 05:26:09 -0400
+From: "talent-acquisition@subexworld.com" <talent-acquisition@subexworld.com>
+To: Nelson Inas Dsouza <nelson.dsouza@subexworld.com>
+Date: Mon, 3 Oct 2011 05:26:11 -0400
+Subject: Referal acknowledgement
+Thread-Topic: Referal acknowledgement
+Thread-Index: AcyBrn2yq6k4Nto+Qbm0YoixxvK2DQ==
+Message-ID: <2122114680.15751317633948124.JavaMail.root@poodle>
+Accept-Language: en-US, en-CA
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: EX13-N05.exchserver.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: 0
+X-MS-TNEF-Correlator:
+x-crx-noroute: SMTP reroute not required
+x-originalarrivaltime: 03 Oct 2011 09:26:11.0069 (UTC)
+ FILETIME=[7D23C2D0:01CC81AE]
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+</head>
+<body>
+Dear Subexian, <br>
+<br>
+Thank you for your referral. We appreciate your participation in building a=
+ high-quality workforce at Subex.
+<br>
+<br>
+This mail is to acknowledge that we have received the profile of Vaibhav. <=
+br>
+<br>
+You can view the status of your referrals at Subexnet -&gt;Subexian Referra=
+ls-&gt;Referral Status
+<br>
+<br>
+For any further clarifications, please feel free to write to refs@subexworl=
+d.com <br>
+<br>
+Please continue to refer to SubexNet for the latest open positions in Subex=
+ <br>
+<br>
+Thank you, <br>
+Recruitment Team, <br>
+Subex Ltd <br>
+<a href=3D"http://www.subexworld.com">www.subexworld.com</a> <br>
+<hr>
+<font face=3D"Arial" color=3D"Gray" size=3D"2">Disclaimer: This e-mail is b=
+ound by the terms and conditions described at http://www.subexworld.com/mai=
+l-disclaimer.html<br>
+</font>
+</body>
+</html>
+

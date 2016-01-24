@@ -1,0 +1,111 @@
+Running program for 4 Configurations 
+The status of mails is:  
+1-Birthday Greetings!eml..txt 
+2-Submission of pending iExpense claims on account of Q3 closure Dec 2011eml..txt 
+The total number of mails as on: 2011/Dec/14 10:25:16 is 2 
+File taken for parsing is BIRTHDAY GREETINGS!EML..TXT 
+At location C:\tmp\mail\Birthday Greetings!eml..txt 
+Processing for configuration 1 :- NOT MATCHED 
+Processing for configuration 2 :- NOT MATCHED 
+Processing for configuration 3 :- NOT MATCHED 
+Processing for configuration 4 :- NOT MATCHED 
+Processing did NOT MATCH for ANY configurations 
+************************************************************* 
+Executing based on last configuration in order to generate logs  
+************************************************************* 
+The mail parsing details are as follows:-  
+Mail line specified by user should contain the string:- "*	0    	<" 
+Sequence by which mail line should begin is:- "" 
+Sequence by which mail line should end is:-  "" 
+************************************************************* 
+The mail filtering details are as follows:-  
+Senders name is:- NIKIRA@FRAUD.COM 
+Subject is:- not specified 
+************************************************************* 
+You have recieved some OTHER MAIL *NOT* having the SENDER you specified 
+sent by:- HR-TEAM <HR-TEAM@SUBEX.COM> 
+having subject line:- BIRTHDAY GREETINGS! 
+on date:- 2011/Dec/14 10:25:16 
+Exiting 
+~ 
+~ 
+~ 
+Running program for 4 Configurations 
+The status of mails is:  
+1-Submission of pending iExpense claims on account of Q3 closure Dec 2011eml..txt 
+The total number of mails as on: 2011/Dec/14 10:25:25 is 1 
+File taken for parsing is SUBMISSION OF PENDING IEXPENSE CLAIMS ON ACCOUNT OF Q3 CLOSURE DEC 2011EML..TXT 
+At location C:\tmp\mail\Submission of pending iExpense claims on account of Q3 closure Dec 2011eml..txt 
+Processing for configuration 1 :- NOT MATCHED 
+Processing for configuration 2 :- NOT MATCHED 
+Processing for configuration 3 :- NOT MATCHED 
+Processing for configuration 4 :- NOT MATCHED 
+Processing did NOT MATCH for ANY configurations 
+************************************************************* 
+Executing based on last configuration in order to generate logs  
+************************************************************* 
+The mail parsing details are as follows:-  
+Mail line specified by user should contain the string:- "*	0    	<" 
+Sequence by which mail line should begin is:- "" 
+Sequence by which mail line should end is:-  "" 
+************************************************************* 
+The mail filtering details are as follows:-  
+Senders name is:- NIKIRA@FRAUD.COM 
+Subject is:- not specified 
+************************************************************* 
+You have recieved some OTHER MAIL *NOT* having the SENDER you specified 
+sent by:- MURALIDHAR I M <MURALIDHAR.M@SUBEX.COM> 
+having subject line:- SUBMISSION OF PENDING IEXPENSE CLAIMS ON ACCOUNT OF Q3 CLOSURE DEC 
+on date:- 2011/Dec/14 10:25:25 
+Exiting 
+~ 
+~ 
+~ 
+Running program for 4 Configurations 
+The status of mails is:  
+0 NEW MAIL 
+No new mail as on 2011/Dec/14 10:25:35 
+Exiting 
+~ 
+~ 
+~ 
+Running program for 4 Configurations 
+The status of mails is:  
+0 NEW MAIL 
+No new mail as on 2011/Dec/14 10:25:44 
+Exiting 
+~ 
+~ 
+~ 
+Running program for 4 Configurations 
+The status of mails is:  
+0 NEW MAIL 
+No new mail as on 2011/Dec/14 10:25:53 
+Exiting 
+~ 
+~ 
+~ 
+Running program for 4 Configurations 
+The status of mails is:  
+0 NEW MAIL 
+No new mail as on 2011/Dec/14 10:28:54 
+Exiting 
+~ 
+~ 
+~ 
+Running program for 4 Configurations 
+The status of mails is:  
+0 NEW MAIL 
+No new mail as on 2011/Dec/14 10:29:04 
+Exiting 
+~ 
+~ 
+~ 
+Running program for 4 Configurations 
+The status of mails is:  
+0 NEW MAIL 
+No new mail as on 2011/Dec/14 10:29:13 
+Exiting 
+~ 
+~ 
+~ 

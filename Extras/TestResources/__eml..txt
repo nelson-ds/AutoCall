@@ -1,0 +1,280 @@
+X-Account-Key: account2
+X-UIDL: 22311
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+Received: from cx280.800onemail.com (10.7.5.154) by EX13-N02.exchserver.com
+ (10.7.40.172) with Microsoft SMTP Server id 8.3.159.2; Mon, 5 Dec 2011
+ 11:33:51 -0500
+Received: from cx270.800onemail.com (lb-280-281.ceryxefw.com [192.168.162.154]
+ (may be forged))	by cx280.800onemail.com (8.13.8/8.13.8) with ESMTP id
+ pB5GX3iC024159;	Mon, 5 Dec 2011 11:33:45 -0500
+Received: from cx262.800onemail.com ([192.168.162.153])	by
+ cx270.800onemail.com (8.13.5/8.13.5) with ESMTP id pB5GW6TC012593;	Mon, 5 Dec
+ 2011 11:32:07 -0500
+Received: from mipvm01.mtn.net.sy (unverified [82.137.217.76]) by
+ cx262.800onemail.com  (Vircom SMTPRS 4.75.860.0) with ESMTP id
+ <B0436089079@cx262.800onemail.com>;  Mon, 5 Dec 2011 11:31:22 -0500
+Received: from mtn-syria.sy ([188.160.0.43] helo=arsy3033.mtnsyr.com)	by
+ mipvm01.mtn.net.sy with smtp (Exim 4.69)	(envelope-from <nikira@fraud.com>)
+	id 1RXbSO-0006uq-W3; Mon, 05 Dec 2011 18:31:57 +0200
+Received: from arsy3013.mtnsyr.com (10.11.228.198) by mail.mtn.com.sy
+ (172.16.20.44) with Microsoft SMTP Server (TLS) id 8.3.213.0; Mon, 5 Dec 2011
+ 18:29:31 +0200
+Received: from nikirasrv.mtnsyr.com (10.11.66.194) by mail.mtn.com.sy
+ (10.11.228.198) with Microsoft SMTP Server id 8.3.83.0; Mon, 5 Dec 2011
+ 18:27:39 +0200
+Received: from nikirasrv.mtnsyr.com (localhost [127.0.0.1])	by
+ nikirasrv.mtnsyr.com (8.13.8+Sun/8.13.8) with ESMTP id pB5GUPd7065746;	Mon, 5
+ Dec 2011 18:30:25 +0200 (EET)
+Received: (from nikira@localhost)	by nikirasrv.mtnsyr.com
+ (8.13.8+Sun/8.13.8/Submit) id pB5GUPlx065745;	Mon, 5 Dec 2011 18:30:25 +0200
+ (EET)
+From: "nikira@fraud.com" <nikira@fraud.com>
+Date: Mon, 5 Dec 2011 11:30:25 -0500
+Subject:
+Thread-Index: Acyza6vYGsvoWGSRTUaqatwpqzFhFQ==
+Message-ID: <201112051630.pB5GUPlx065745@nikirasrv.mtnsyr.com>
+Accept-Language: en-US, en-CA
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: EX13-N02.exchserver.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: 0
+X-MS-TNEF-Correlator:
+x-crx-noroute: SMTP reroute not required
+x-scanned-by: DNI on 192.168.162.99
+x-efw-cc: processed
+x-modus-audit: FALSE;0;0;0
+x-modus-blacklist: 82.137.217.76=OK;nikira@fraud.com=OK
+x-modus-trusted: 82.137.217.76=NO
+x-modus-rbl: 82.137.217.76=OK
+x-crxefw-virus: Clean
+x-crxefw-from: nikira@fraud.com
+x-crxefw-info: Please contact Ceryx for more information
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+MTN Syria Production Server Status Report
+
+
+Time at the Server=20
+Mon Dec  5 18:30:00 EET 2011
+
+********************************************* Report Start ****************=
+**************************=20
+
+***************************** Status of Files *****************************=
+*=20
+
+DataSourceNokiaSiemensM14CDRData=3D 42
+DataSourceLogicaSMSCCDRData=3D 5
+DataSourceRechargeData=3D 1
+DataSourceTapinCDRData=3D 10
+DataSourceEricssonR11CDRData=3D 1
+DataSourceSiemensSR10CDRData=3D 1
+DataSourceSubscriberData=3D 1
+RaterCDRData=3D 405
+RaterCDRData_1=3D 77
+RaterCDRData_2=3D 77
+RaterCDRData_3=3D 62
+RaterCDRData_4=3D 39
+SubscriberDataRecord=3D 1
+DataRecord=3D 28
+DataRecord_1=3D 25421
+DataRecord_2=3D 18654
+DataRecord_3=3D 156456
+DBWriter=3D 54147
+RecordLoader=3D 32
+***************************** End of Status of the Files  *****************=
+*************=20
+
+***************************** Status of Processes *************************=
+*************=20
+ 	ACTL 	 	NORM 	PROGRAM                                =20
+ 	3    	=3D	3    	spark                                  =20
+          PIDS: 33404, 33391, 33370 =20
+ 	1    	=3D	1    	dashboard                              =20
+          PIDS: 75287 =20
+ 	1    	=3D	1    	rater1                                 =20
+          PIDS: 93159 =20
+ 	1    	=3D	1    	rater2                                 =20
+          PIDS: 93167 =20
+ 	1    	=3D	1    	rater3                                 =20
+          PIDS: 93174 =20
+ 	1    	=3D	1    	rater4                                 =20
+          PIDS: 93181 =20
+ 	0    	=3D	0    	EAM                                    =20
+ 	1    	=3D	1    	programmanager                         =20
+          PIDS: 35155 =20
+ 	1    	=3D	1    	RecordProcessor1                       =20
+          PIDS: 35278  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor2                       =20
+          PIDS: 35279  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor3                       =20
+          PIDS: 35280  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor4                       =20
+          PIDS: 35281  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor5                       =20
+          PIDS: 35282  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor6                       =20
+          PIDS: 35286  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor7                       =20
+          PIDS: 35287  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor8                       =20
+          PIDS: 35288  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor9                       =20
+          PIDS: 35289  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor10                      =20
+          PIDS: 35290  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor11                      =20
+          PIDS: 35291  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor12                      =20
+          PIDS: 35292  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor13                      =20
+          PIDS: 35295  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor14                      =20
+          PIDS: 35284  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor15                      =20
+          PIDS: 35297  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor16                      =20
+          PIDS: 35298  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor17                      =20
+          PIDS: 35299  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor18                      =20
+          PIDS: 35300  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor19                      =20
+          PIDS: 35302  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor20                      =20
+          PIDS: 35304  ***SLAVE***
+ 	1    	=3D	1    	RecordProcessor21                      =20
+          PIDS: 35284  ***SLAVE***
+ 	1    	=3D	1    	CounterManager1                        =20
+          PIDS: 35260  ***SLAVE***
+ 	1    	=3D	1    	CounterManager2                        =20
+          PIDS: 35261  ***SLAVE***
+ 	1    	=3D	1    	CounterManager3                        =20
+          PIDS: 35262  ***SLAVE***
+ 	1    	=3D	1    	CounterManager4                        =20
+          PIDS: 35265  ***SLAVE***
+ 	1    	=3D	1    	CounterManager5                        =20
+          PIDS: 35268  ***SLAVE***
+ 	1    	=3D	1    	CounterManager6                        =20
+          PIDS: 35271  ***SLAVE***
+ 	1    	=3D	1    	CounterManager7                        =20
+          PIDS: 35275  ***SLAVE***
+ 	1    	=3D	1    	CounterManager8                        =20
+          PIDS: 35277  ***SLAVE***
+*	0    	<	1    	DBWriter1                              =20
+          PIDS:   ***SLAVE***
+ 	1    	=3D	1    	AlarmGenerator1                        =20
+          PIDS: 35165  ***SLAVE***
+ 	1    	=3D	1    	SmartPatternProcessor1                 =20
+          PIDS: 35200  ***SLAVE***
+ 	1    	=3D	1    	RecordDispatcher1                      =20
+          PIDS: 35307  ***SLAVE***
+ 	1    	=3D	1    	RecordDispatcher2                      =20
+          PIDS: 35309  ***SLAVE***
+ 	1    	=3D	1    	RecordDispatcher3                      =20
+          PIDS: 35314  ***SLAVE***
+ 	1    	=3D	1    	CumulativeVoiceDispatcher1             =20
+          PIDS: 35323  ***SLAVE***
+ 	1    	=3D	1    	SubscriberProcessor1                   =20
+          PIDS: 35305  ***SLAVE***
+ 	1    	=3D	1    	SubscriberDispatcher1                  =20
+          PIDS: 35318  ***SLAVE***
+ 	1    	=3D	1    	RecordFileLoader                       =20
+          PIDS: 10842 =20
+ 	1    	=3D	1    	TempRecordsCopy                        =20
+          PIDS: 29330 =20
+ 	1    	=3D	1    	cleanprocesseddir                      =20
+          PIDS: 75331 =20
+ 	1    	=3D	1    	cleantempdir                           =20
+          PIDS: 75342 =20
+ 	0    	=3D	0    	pm_monitor                             =20
+ 	1    	=3D	1    	recordhashsplitter                     =20
+          PIDS: 75370 =20
+ 	1    	=3D	1    	recordhashsplitter_rater               =20
+          PIDS: 75384 =20
+***************************** END *****************************************=
+*=20
+
+***************************** Disk Utilization ****************************=
+**************=20
+Filesystem             size   used  avail capacity  Mounted on
+/dev/md/dsk/d0         4.8G   813M   4.0G    17%    /
+swap                    53G   1.5M    53G     1%    /etc/svc/volatile
+objfs                    0K     0K     0K     0%    /system/object
+/dev/md/dsk/d1         4.8G   3.7G   1.0G    79%    /usr
+fd                       0K     0K     0K     0%    /dev/fd
+/dev/md/dsk/d3         9.6G   1.3G   8.2G    14%    /var
+swap                    53G   182M    53G     1%    /tmp
+swap                    53G    64K    53G     1%    /var/run
+/dev/dsk/c20t60060160692020009646318157B6DE11d0s2    34G    19G    15G    5=
+5%    /oracle
+/dev/dsk/c20t60060160692020005287BCA857B6DE11d0s2   394G   197G   193G    5=
+1%    /ora_data01
+/dev/dsk/c20t6006016069202000522B3F9C65B6DE11d0s2   394G   184G   206G    4=
+8%    /ora_data04
+/dev/md/dsk/d4         9.6G   5.3G   4.2G    56%    /opt
+/dev/md/dsk/d6         8.3G   8.4M   8.2G     1%    /internaldisk2
+/dev/dsk/c20t6006016069202000A89966DD56B6DE11d0s2   394G   158G   232G    4=
+1%    /ora_data02
+/dev/md/dsk/d5          38G   539M    38G     2%    /internaldisk1
+/dev/dsk/c20t600601606920200030E2EAC956B6DE11d0s2   394G   250G   140G    6=
+5%    /ora_data03
+/dev/dsk/c20t600601606920200036BF8FE756B6DE11d0s2   153G    59G    92G    3=
+9%    /ora_arch01
+/dev/dsk/c20t600601609D6116005AC213CB5805E111d0s2   656G    95G   554G    1=
+5%    /nikira
+/dev/dsk/c20t60060160692020005AD9CDBA57B6DE11d0s2   104G    61G    43G    5=
+9%    /nikira-old
+***************************** END *****************************************=
+*=20
+
+***************************** CPU Utilization *****************************=
+*************=20
+   PID USERNAME  SIZE   RSS STATE  PRI NICE      TIME  CPU PROCESS/NLWP    =
+  =20
+ 35260 nikira    182M  160M cpu0    30    0   4:29:21  11% countermanager/7=
+4
+ 93181 nikira    167M  146M cpu14    0    0 178:11:17 4.1% mtnsyriaraterda/=
+1
+ 93159 nikira    167M  147M cpu10    0    0 189:21:46 4.1% mtnsyriaraterda/=
+1
+ 93167 nikira    167M  144M cpu25    0    0 181:36:24 4.0% mtnsyriaraterda/=
+1
+ 93174 nikira    167M  147M cpu6     0    0 186:07:41 4.0% mtnsyriaraterda/=
+1
+ 35309 nikira     69M   40M cpu4     0    0   1:40:26 2.1% recorddispatche/=
+1
+ 80864 oracle     27G   24G cpu8     0    0   0:02:48 2.1% oracle/1
+ 35165 nikira     60M   34M cpu3     0    0   0:08:51 1.8% alarmgenerator/1
+ 33404 nikira   1170M 1068M sleep   59    0  82:07:24 1.6% java/44
+ 35298 nikira    106M   76M sleep    0    0   0:46:01 1.5% recordprocessor/=
+1
+ 35297 nikira    103M   74M sleep    0    0   0:46:39 1.5% recordprocessor/=
+1
+ 35307 nikira     69M   40M sleep    0    0   1:28:58 1.4% recorddispatche/=
+1
+ 35302 nikira    106M   76M cpu18    0    0   0:45:40 1.3% recordprocessor/=
+1
+ 35296 nikira    106M   75M sleep    0    0   0:45:25 1.2% recordprocessor/=
+1
+ 35299 nikira    107M   77M sleep    0    0   0:46:27 1.2% recordprocessor/=
+1
+ NPROC USERNAME  SWAP   RSS MEMORY      TIME  CPU                          =
+  =20
+   556 nikira     35G   34G    42% 897:48:08  78%
+   107 oracle     28G   28G    35% 178:14:15 2.5%
+    44 root      103M  116M   0.1%  57:18:31 0.0%
+     1 noaccess  132M  176M   0.2%  15:33:27 0.0%
+     6 daemon   1769M 1770M   2.2%   9:46:49 0.0%
+Total: 715 processes, 1720 lwps, load averages: 22.62, 22.99, 23.31
+***************************** END *****************************************=
+*=20
+
+****************************************** End of Report ******************=
+**************************=20
+
+

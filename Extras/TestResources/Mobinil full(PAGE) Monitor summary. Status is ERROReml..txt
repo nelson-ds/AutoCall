@@ -1,0 +1,181 @@
+X-Account-Key: account2
+X-UIDL: 23982
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+Received: from cx281.800onemail.com (10.7.5.154) by EX13-N02.exchserver.com
+ (10.7.40.172) with Microsoft SMTP Server id 8.3.159.2; Fri, 9 Dec 2011
+ 23:28:55 -0500
+Received: from cx270.800onemail.com (lb-280-281.ceryxefw.com [192.168.162.154]
+ (may be forged))	by cx281.800onemail.com (8.13.8/8.13.8) with ESMTP id
+ pBA4Srgb010477;	Fri, 9 Dec 2011 23:28:53 -0500
+Received: from cx263.800onemail.com ([192.168.162.153])	by
+ cx270.800onemail.com (8.13.5/8.13.5) with ESMTP id pBA4Sml3003771;	Fri, 9 Dec
+ 2011 23:28:48 -0500
+Received: from mail206.messagelabs.com (unverified [85.158.139.211]) by
+ cx263.800onemail.com  (Vircom SMTPRS 4.75.860.0) with ESMTP id
+ <B0377265715@cx263.800onemail.com>  (prot=TLS1-S cifer=RC4-128 hash=SHA-160
+ exch=RSA-1024 verify=NOT);  Fri, 9 Dec 2011 23:28:47 -0500
+Received: (qmail 25623 invoked from network); 10 Dec 2011 04:28:49 -0000
+Received: from host-62-241-155-216.static.link.com.eg (HELO
+ HQ-EDGE-02.Mobcorp.INTRT.com) (62.241.155.216)  by
+ server-4.tower-206.messagelabs.com with AES128-SHA encrypted SMTP; 10 Dec
+ 2011 04:28:49 -0000
+Received: from NC-E2K7HUB-02.MOBCORP.INTRT.COM (10.1.132.114) by
+ HQ-EDGE-02.Mobcorp.INTRT.com (10.11.253.28) with Microsoft SMTP Server id
+ 8.2.254.0; Sat, 10 Dec 2011 06:28:45 +0200
+Received: from nikirapp.mobinil.com (10.11.105.150) by
+ NC-E2K7HUB-02.MOBCORP.INTRT.COM (10.1.132.114) with Microsoft SMTP Server id
+ 8.2.255.0; Sat, 10 Dec 2011 06:28:37 +0200
+Received: from localhost.localdomain (localhost.localdomain [127.0.0.1])	by
+ nikirapp.mobinil.com (8.13.1/8.13.1) with SMTP id pBA4U2Vu027614;	Sat, 10 Dec
+ 2011 06:30:02 +0200
+From: "nikira@nikirapp.mobinil.com" <nikira@nikirapp.mobinil.com>
+To: Rishu Goel <rishu.goel@subex.com>, Nachiketa S <nachiketa.s@subex.com>,
+	Sunil Kumar <sunilkumar@subex.com>, Support fmsra ME
+	<supportfmsra.ME@subex.com>, "aabbas@mobinil.com" <aabbas@mobinil.com>,
+	"mamokhtar@mobinil.com" <mamokhtar@mobinil.com>, "aabdelbaqi@mobinil.com"
+	<aabdelbaqi@mobinil.com>
+Date: Fri, 9 Dec 2011 23:30:00 -0500
+Subject: Mobinil: full(PAGE) Monitor summary.  Status is ERROR
+Thread-Topic: Mobinil: full(PAGE) Monitor summary.  Status is ERROR
+Thread-Index: Acy29Do1kNMX+S9OTSGtiYWYWwrPUg==
+Message-ID: <201112100430.pBA4U2Vu027614@nikirapp.mobinil.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: EX13-N02.exchserver.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: 0
+X-MS-TNEF-Correlator:
+x-crx-noroute: SMTP reroute not required
+x-scanned-by: DNI on 192.168.162.99
+x-efw-cc: processed
+x-modus-audit: FALSE;0;0;0
+x-modus-blacklist: 85.158.139.211=OK;nikira@nikirapp.mobinil.com=OK
+x-modus-trusted: 85.158.139.211=NO
+x-modus-rbl: 85.158.139.211=OK
+x-crxefw-virus: Clean
+x-crxefw-from: nikira@nikirapp.mobinil.com
+x-crxefw-info: Please contact Ceryx for more information
+x-originating-ip: [62.241.155.216]
+x-viruschecked: Checked
+x-env-sender: nikira@nikirapp.mobinil.com
+x-msg-ref: server-4.tower-206.messagelabs.com!1323491328!5719365!1
+x-starscan-version: 6.4.2; banners=mobinil.com,-,-
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D
+Completion Date: 12/10/2011  Time: 6:30:1 EET
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D
+                                     /------------ COUNTS -------------\   =
+       =20
+Hostname   Subsystem        Time         Info     Warn    Error   Failed St=
+atus =20
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=
+=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=
+=3D
+nikirapp   cdr              06:30:01        0        0        0        0 OK
+nikirapp   ds_MPayment      06:30:01        0        0        0        0 OK
+nikirapp   ds_cdr           06:30:01        0        0        0        0 OK
+nikirapp   ds_crmloyalty    06:30:01        0        0        0        0 OK
+nikirapp   ds_gprs          06:30:01        0        0        0        0 OK
+nikirapp   ds_nrtrde        06:30:01        0        0        0        0 OK
+nikirapp   ds_sms           06:30:01        0        0        0        0 OK
+nikirapp   ds_tapin         06:30:01        0        0        0        0 OK
+nikirapp   general          06:30:01        0        0        1        0 ER=
+ROR
+nikirapp   spark_subscriber 06:30:01        0        0        0        0 OK
+nikirapp   subscriber       06:30:01        0        0        0        0 OK
+nikirapp   subscriber_prepr 06:30:01        0        0        0        0 OK
+=20
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D
+HOSTNAME:  nikirapp	DETAILS OF /nikira/EAM/mast_logs/nikirapp/ERROR.log
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D
+Check Name:  Check Ranger core Processes	Check Status:  ERROR
+Check Time:  Sat Dec 10 06:30:01 2011 EET	Hostname: nikirapp
+XML File:    continuous.xml	Routine: FCStd::CountProcesses
+..........................................................................=
+...
+Results for search text =3D (recorddispatcher)
+  Exception : (NA)
+  Owner   :  (nikira)   Optional Flag: (N)   Ignore Child: (N)
+  Criteria:  (=3D5)   Enabled Flag (TRUE)   Server Name (nikirapp)
+  PID Files: (NA)
+  State for violations: (ERROR)
+MONM-000011: Process count (6) is NOT EQUAL to expected process count of (=
+=3D 5)!
+
+Process Details
+---------------
+nikira   14561     1  0 Dec09 ?        00:09:23 /nikira/NIKIRAROOT/sbin/rec=
+orddispatcher -c SUBSCRIBERGROUPING -o ID ASC -e SUBSCRIBER_TYPE =3D 0 AND =
+ACCOUNT_ID !=3D 4 AND dbms_utility.get_hash_value(phone_number,0,1) =3D 0 -=
+g 11196 -r DB://3 -i RSAGE_SUB_INST_1
+
+nikira   31804 31753 10 01:14 ?        00:34:34 recorddispatcher -r RFF:///=
+nikira/NIKIRAROOT/RangerData/DataRecord1/ -p TCP://127.0.0.1:21002 TCP://12=
+7.0.0.1:21013 TCP://127.0.0.1:21014 TCP://127.0.0.1:21015 TCP://127.0.0.1:2=
+1016 TCP://127.0.0.1:21017 TCP://127.0.0.1:21018 TCP://127.0.0.1:21019 TCP:=
+//127.0.0.1:21020 TCP://127.0.0.1:21021 TCP://127.0.0.1:21022 TCP://127.0.0=
+1:21044 TCP://127.0.0.1:21045 TCP://127.0.0.1:21046 TCP://127.0.0.1:21047 T=
+CP://127.0.0.1:21048 -a TCP://127.0.0.1:21000 -w /nikira/NIKIRAROOT/RangerD=
+ata/DBWriterData/
+
+nikira   31805 31753 10 01:14 ?        00:34:25 recorddispatcher -r RFF:///=
+nikira/NIKIRAROOT/RangerData/DataRecord2/ -p TCP://127.0.0.1:21023 TCP://12=
+7.0.0.1:21024 TCP://127.0.0.1:21025 TCP://127.0.0.1:21026 TCP://127.0.0.1:2=
+1027 TCP://127.0.0.1:21028 TCP://127.0.0.1:21029 TCP://127.0.0.1:21030 TCP:=
+//127.0.0.1:21041 TCP://127.0.0.1:21042 TCP://127.0.0.1:21043 TCP://127.0.0=
+1:21049 TCP://127.0.0.1:21050 TCP://127.0.0.1:21051 TCP://127.0.0.1:21052 T=
+CP://127.0.0.1:21053 -a TCP://127.0.0.1:21000 -w /nikira/NIKIRAROOT/RangerD=
+ata/DBWriterData/
+
+nikira   31806 31753  0 01:14 ?        00:00:08 recorddispatcher -r RFF:///=
+nikira/NIKIRAROOT/RangerData/SubscriberDataRecord/ -p TCP://127.0.0.1:30001=
+ -a TCP://127.0.0.1:21000 -w /nikira/NIKIRAROOT/RangerData/DBWriterData/
+
+nikira   31807 31753  0 01:14 ?        00:00:00 recorddispatcher -r RFF:///=
+nikira/NIKIRAROOT/RangerData/AICumulativeVoiceData/ -p TCP://127.0.0.1:2100=
+1 -a TCP://127.0.0.1:21000 -w /nikira/NIKIRAROOT/RangerData/DBWriterData/
+
+nikira   31808 31753  0 01:14 ?        00:00:00 recorddispatcher -r RFF:///=
+nikira/NIKIRAROOT/RangerData/AICumulativeGPRSData/ -p TCP://127.0.0.1:21001=
+ -a TCP://127.0.0.1:21000 -w /nikira/NIKIRAROOT/RangerData/DBWriterData/
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%=
+%%%%%
+%%%%%         End of monitor run at Sat Dec 10 06:30:01 2011               =
+%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%=
+%%%%%
+
+
+
+______________________________________________________________________
+This email has been scanned by the Symantec Email Security.cloud service.
+For more information please visit http://www.symanteccloud.com
+______________________________________________________________________
+

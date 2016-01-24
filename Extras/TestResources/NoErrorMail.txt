@@ -1,0 +1,173 @@
+X-Account-Key: account2
+X-UIDL: 545
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+Received: from EX60A.exchserver.com (10.7.5.154) by EX13-N04.exchserver.com
+ (10.7.40.182) with Microsoft SMTP Server id 8.3.159.2; Mon, 3 Oct 2011
+ 07:13:37 -0400
+Received: from [127.0.0.1] ([164.164.82.29]) by EX60A.exchserver.com with
+ Microsoft SMTPSVC(6.0.3790.3959);	 Mon, 3 Oct 2011 07:13:36 -0400
+From: Nelson Inas Dsouza <nelson.dsouza@subexworld.com>
+To: Nelson Inas Dsouza <nelson.dsouza@subexworld.com>
+Date: Mon, 3 Oct 2011 07:13:27 -0400
+Subject: [Fwd: FW: Mobinil: full(PAGE) Monitor summary.  Status is ERROR]
+Thread-Topic: [Fwd: FW: Mobinil: full(PAGE) Monitor summary.  Status is
+ ERROR]
+Thread-Index: AcyBvX9l9liouXh3TUKa1KCTzJQbdg==
+Message-ID: <4E8998D7.8010503@subexworld.com>
+Reply-To: Nelson Inas Dsouza <nelson.dsouza@subexworld.com>
+Accept-Language: en-US, en-CA
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: EX13-N04.exchserver.com
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: 0
+X-MS-TNEF-Correlator:
+x-crx-noroute: SMTP reroute not required
+user-agent: Thunderbird 1.5 (Windows/20051201)
+x-originalarrivaltime: 03 Oct 2011 11:13:36.0409 (UTC)
+ FILETIME=[7EDC9890:01CC81BD]
+Content-Type: multipart/mixed; boundary="_002_4E8998D78010503subexworldcom_"
+MIME-Version: 1.0
+
+--_002_4E8998D78010503subexworldcom_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Disclaimer: This e-mail is bound by the terms and conditions described at h=
+ttp://www.subexworld.com/mail-disclaimer.html
+
+--_002_4E8998D78010503subexworldcom_
+Content-Type: message/rfc822
+
+Received: from EX43-2.exchserver.com ([169.254.2.174]) by
+ EX13-N02.exchserver.com ([10.7.40.170]) with mapi; Tue, 27 Sep 2011 01:00:35
+ -0400
+From: Rishu Goel <rishu.goel@subexworld.com>
+To: Nelson Inas Dsouza <nelson.dsouza@subexworld.com>
+Date: Tue, 27 Sep 2011 01:00:00 -0400
+Subject: FW: Mobinil: full(PAGE) Monitor summary.  Status is ERROR
+Thread-Topic: Mobinil: full(PAGE) Monitor summary.  Status is ERROR
+Thread-Index: Acx8rNWLpPKsPdCNQgCwXP4ymTmTTQAJXoZT
+Message-ID: <7CBD02882E092E47996280C4CDB6EE6E5E012945@EX43-2.exchserver.com>
+References: <201109270030.p8R0U2IS004948@nikirapp.mobinil.com>
+In-Reply-To: <201109270030.p8R0U2IS004948@nikirapp.mobinil.com>
+Accept-Language: en-US, en-CA
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: EX13-N02.exchserver.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US, en-CA
+x-crx-noroute: SMTP reroute not required
+x-account-key: account2
+x-mozilla-keys:
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+
+Thanks and Regards,
+Rishu Goel | Subex Limited
+Adarsh Tech Park, Outer Ring Road, Devarabisannalli, Bangalore =96 560037, =
+India.
+Phone: +91 7411269014;
+Email:  rishu.goel@subexworld.com; URL:  www.subexworld.com
+________________________________________
+From: nikira@nikirapp.mobinil.com [nikira@nikirapp.mobinil.com]
+Sent: Tuesday, September 27, 2011 6:00 AM
+To: Rishu Goel; Nachiketa S; Sunil Kumar; Support fmsra ME; aabbas@mobinil.=
+com; mamokhtar@mobinil.com; aabdelbaqi@mobinil.com
+Subject: Mobinil: full(PAGE) Monitor summary.  Status is ERROR
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D
+Completion Date: 9/27/2011  Time: 2:30:1 EET
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D
+                                     /------------ COUNTS -------------\
+Hostname   Subsystem        Time         Info     Warn    Error   Failed St=
+atus
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=
+=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=
+=3D
+nikirapp   cdr              02:30:01        0        0        1        0 ER=
+ROR
+nikirapp   ds_MPayment      02:30:01        0        0        0        0 OK
+nikirapp   ds_cdr           02:30:01        0        0        0        0 OK
+nikirapp   ds_crmloyalty    02:30:01        0        0        0        0 OK
+nikirapp   ds_gprs          02:30:01        0        0        0        0 OK
+nikirapp   ds_nrtrde        02:30:01        0        0        0        0 OK
+nikirapp   ds_sms           02:30:01        0        0        0        0 OK
+nikirapp   ds_tapin         02:30:01        0        0        0        0 OK
+nikirapp   general          02:30:01        0        0        0        0 OK
+nikirapp   spark_subscriber 02:30:01        0        0        0        0 OK
+nikirapp   subscriber       02:30:01        0        0        0        0 OK
+nikirapp   subscriber_prepr 02:30:01        0        0        0        0 OK
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D
+HOSTNAME:  nikirapp     DETAILS OF /nikira/EAM/mast_logs/nikirapp/ERROR.log
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D
+Check Name:  Check Dispatcher1 Backlog  Check Status:  ERROR
+Check Time:  Tue Sep 27 02:30:01 2011 EET       Hostname: nikirapp
+XML File:    continuous.xml     Routine: FCSwitches::FilesBacklog
+..........................................................................=
+...
+Check Dir: /nikira/NIKIRAROOT/RangerData/DataRecord1/Process/
+  File Pattern: *
+
+***** THRESHOLD VALUES (defaults) *****
+  MaxFilesINFO: NA   MaxFilesWARNING: 10   MaxFilesERROR: 15
+  MaxAgeHoursINFO: NA   MaxAgeHoursWARNING: NA   MaxAgeHoursERROR: 1
+  MaxFilesSameOldest: 10
+  SameOldestINFO: NA   SameOldestWARNING: NA   SameOldestERROR: 50M
+***** END OF THRESHOLDS *****
+
+MONM-005205 (ERROR): matching File count (17) > max of (15)
+  Check the backlog in DataRecord1
+MONM-005208 (OK): Oldest matching file FMS3_270489_T1
+  is (0) hours old
+MONM-005216: (OK) No prior same_oldest_work_file record for this directory
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%=
+%%%%%
+%%%%%         End of monitor run at Tue Sep 27 02:30:01 2011               =
+%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%=
+%%%%%
+
+
+
+______________________________________________________________________
+This email has been scanned by the MessageLabs Email Security System.
+For more information please visit http://www.messagelabs.com/email
+______________________________________________________________________
+
+Disclaimer: This e-mail is bound by the terms and conditions described at h=
+ttp://www.subexworld.com/mail-disclaimer.html
+
+
+--_002_4E8998D78010503subexworldcom_--
+

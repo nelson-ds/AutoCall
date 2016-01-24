@@ -1,0 +1,20 @@
+You have recieved some OTHER MAIL *NOT* having the SENDER you specified
+Sent by:- HR TEAM <HR-TEAM@SUBEX.COM>
+having subject line:- BIRTHDAY GREETINGS!
+on date:- 2011/Nov/11 14:58:59
+
+
+*************************************************************
+
+The mail filtering details are as follows:- 
+Senders name is:- NELSON
+Subject is:- not specified
+
+*************************************************************
+
+The mail parsing details are as follows:- 
+Mail line specified by user should contain the string:- "MONM-000011: PROCESS COUNT (0) IS NOT EQUAL TO EXPECTED PROCESS COUNT OF (="
+Sequence by which mail line should begin is:- "RESULTS FOR SEARCH TEXT"
+Sequence by which mail line should end is:-  "!"
+
+*************************************************************

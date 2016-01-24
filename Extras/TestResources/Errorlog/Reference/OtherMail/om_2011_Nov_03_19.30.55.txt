@@ -1,0 +1,23 @@
+You have recieved some OTHER MAIL **CONTAINING THE LINES** you have have specified
+But*NOT* having the SENDER you specified
+Sent by:- NELSON INAS DSOUZA <NELSON.DSOUZA@SUBEXWORLD.COM>
+having subject line:- MOBINIL: FULL(PAGE) MONITOR SUMMARY.  STATUS IS ERROR]
+on date:- 2011/Nov/03 19:30:55
+
+
+
+
+*************************************************************
+
+The mail filtering details are as follows:- 
+Senders name is:- BLAH
+Subject is:- MONITOR SUMMARY
+
+*************************************************************
+
+The mail parsing details are as follows:- 
+Mail line specified by user should contain the string:- "MONM-000011: PROCESS COUNT (0) IS NOT EQUAL TO EXPECTED PROCESS COUNT OF (="
+Sequence by which mail line should begin is:- "RESULTS FOR SEARCH TEXT"
+Sequence by which mail line should end is:-  "!"
+
+*************************************************************

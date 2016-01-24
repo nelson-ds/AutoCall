@@ -1,0 +1,76 @@
+﻿Subject: Mobinil: full(PAGE) Monitor summary. Status is ERROR
+From: Rishu Goel <rishu.goel@subexworld.com>
+Date: 9/27/2011 10:30 AM
+To: Nelson Inas Dsouza <nelson.dsouza@subexworld.com>
+
+
+Thanks and Regards,
+Rishu Goel | Subex Limited
+Adarsh Tech Park, Outer Ring Road, Devarabisannalli, Bangalore – 560037, India.
+Phone: +91 7411269014;
+Email:  rishu.goel@subexworld.com; URL:  www.subexworld.com
+________________________________________
+From: nikira@nikirapp.mobinil.com [nikira@nikirapp.mobinil.com]
+Sent: Tuesday, September 27, 2011 6:00 AM
+To: Rishu Goel; Nachiketa S; Sunil Kumar; Support fmsra ME; aabbas@mobinil.com; mamokhtar@mobinil.com; aabdelbaqi@mobinil.com
+Subject: Mobinil: full(PAGE) Monitor summary.  Status is ERROR
+
+================================================================================
+Completion Date: 9/27/2011  Time: 2:30:1 EET
+================================================================================
+                                     /------------ COUNTS -------------\
+Hostname   Subsystem        Time         Info     Warn    Error   Failed Status
+========== ================ ======== ======== ======== ======== ======== =======
+nikirapp   cdr              02:30:01        0        0        1        0 ERROR
+nikirapp   ds_MPayment      02:30:01        0        0        0        0 OK
+nikirapp   ds_cdr           02:30:01        0        0        0        0 OK
+nikirapp   ds_crmloyalty    02:30:01        0        0        0        0 OK
+nikirapp   ds_gprs          02:30:01        0        0        0        0 OK
+nikirapp   ds_nrtrde        02:30:01        0        0        0        0 OK
+nikirapp   ds_sms           02:30:01        0        0        0        0 OK
+nikirapp   ds_tapin         02:30:01        0        0        0        0 OK
+nikirapp   general          02:30:01        0        0        0        0 OK
+nikirapp   spark_subscriber 02:30:01        0        0        0        0 OK
+nikirapp   subscriber       02:30:01        0        0        0        0 OK
+nikirapp   subscriber_prepr 02:30:01        0        0        0        0 OK
+
+
+================================================================================
+HOSTNAME:  nikirapp     DETAILS OF /nikira/EAM/mast_logs/nikirapp/ERROR.log
+================================================================================
+
+================================================================================
+Check Name:  Check Dispatcher1 Backlog  Check Status:  ERROR
+Check Time:  Tue Sep 27 02:30:01 2011 EET       Hostname: nikirapp
+XML File:    continuous.xml     Routine: FCSwitches::FilesBacklog
+...............................................................................
+Check Dir: /nikira/NIKIRAROOT/RangerData/DataRecord1/Process/
+  File Pattern: *
+
+***** THRESHOLD VALUES (defaults) *****
+  MaxFilesINFO: NA   MaxFilesWARNING: 10   MaxFilesERROR: 15
+  MaxAgeHoursINFO: NA   MaxAgeHoursWARNING: NA   MaxAgeHoursERROR: 1
+  MaxFilesSameOldest: 10
+  SameOldestINFO: NA   SameOldestWARNING: NA   SameOldestERROR: 50M
+***** END OF THRESHOLDS *****
+
+MONM-005205 (ERROR): matching File count (17) > max of (15)
+  Check the backlog in DataRecord1
+MONM-005208 (OK): Oldest matching file FMS3_270489_T1
+  is (0) hours old
+MONM-005216: (OK) No prior same_oldest_work_file record for this directory
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%         End of monitor run at Tue Sep 27 02:30:01 2011               %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+______________________________________________________________________
+This email has been scanned by the MessageLabs Email Security System.
+For more information please visit http://www.messagelabs.com/email
+______________________________________________________________________
+
+Disclaimer: This e-mail is bound by the terms and conditions described at http://www.subexworld.com/mail-disclaimer.html
+

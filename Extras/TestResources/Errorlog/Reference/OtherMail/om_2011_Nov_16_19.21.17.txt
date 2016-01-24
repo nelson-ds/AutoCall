@@ -1,0 +1,20 @@
+You have recieved some OTHER MAIL *NOT* having the SENDER you specified
+Sent by:- RISHU GOEL <RISHU.GOEL@SUBEX.COM>
+having subject line:- QTEL PRODUCTION SERVER STATUS REPORT
+on date:- 2011/Nov/16 19:21:17
+
+
+*************************************************************
+
+The mail filtering details are as follows:- 
+Senders name is:- NIKIRA@FRAUD.COM
+Subject is:- not specified
+
+*************************************************************
+
+The mail parsing details are as follows:- 
+Mail line specified by user should contain the string:- "*	0    	<"
+Sequence by which mail line should begin is:- ""
+Sequence by which mail line should end is:-  ""
+
+*************************************************************

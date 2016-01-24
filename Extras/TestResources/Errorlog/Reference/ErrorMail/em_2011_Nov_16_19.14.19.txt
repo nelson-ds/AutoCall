@@ -1,0 +1,32 @@
+Timestamp is: 2011/Nov/16 19:14:19
+The Sender of this mail is: NELSON INAS DSOUZA <NELSON.DSOUZA@SUBEXWORLD.COM>
+The Subject line is: MOBINIL: FULL(PAGE) MONITOR SUMMARY.  STATUS IS ERROR]
+The error lines are as follows:- 
+
+MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   
+.MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   
+.MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   
+.MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   
+.MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   
+
+
+****************************   DONE   *********************************
+
+Total number of errors are:5
+
+
+*************************************************************
+
+The mail filtering details are as follows:- 
+Senders name is:- not specified
+Subject is:- MOBINIL: FULL
+
+
+*************************************************************
+
+The mail parsing details are as follows:- 
+Mail line specified by user should contain the string:- "PROCESS COUNT (0) IS NOT EQUAL"
+Sequence by which mail line should begin is:- ""
+Sequence by which mail line should end is:-  ""
+
+*************************************************************

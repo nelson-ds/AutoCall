@@ -1,0 +1,58 @@
+*** changes ***
+Subject sequence in properties can now be "not specified"
+____________________________________________________________________________________________________________________________
+
+*** Pipeline ***
+1.add feature to filter mail by user
+2.add feature to specify time when mail should not be sent
+____________________________________________________________________________________________________________________________
+
+*** Required ***
+1.Shortcut for image of VBM should be correctly pointed
+
+2.Installation of java 1.5 (and above) and JRE 6 (and above) is mandatory
+
+3.Copy the files "RXTXcomm.jar"  and "sound.properties" in JDK lib (find other folders where it needs to be put)
+
+4.Installation of free tts (mandatory or not still to be reviewed)
+
+3.bifurcation of VBM for subex and generalised VBM
+
+4.chat in skype version of VBM(substitute for messaging)
+
+5.waiting till call is set up for skype version of VBM
+
+6.automatic port number in phone version of VBM
+
+7.msg via mob in phone version of VBM
+
+8. in phone version change voice from kevin to something else or have options for multiple voice
+
+9.interface to ask - port number of device, the subject line message, when system should be paused
+
+10. Log of complete o/p from cmd
+
+11 Error for errstr Process count (num1) is NOT EQUAL (num 2).... (where num1 < num2)
+eg
+Results for search text =3D (recorddispatcher)
+  Exception : (NA)
+  Owner   :  (nikira)   Optional Flag: (N)   Ignore Child: (N)
+  Criteria:  (=3D5)   Enabled Flag (TRUE)   Server Name (nikirapp)
+  PID Files: (NA)
+  State for violations: (ERROR)
+MONM-000011: Process count (6) is NOT EQUAL to expected process count of (=
+=3D 5)!
+
+for above do not hard code Process count (0) but implement logic that whatever num1 is it has to be less than num2 .
+In this case 6 > 5 so it is not an error but if 6 and 5 were to be interchanged it wud be an error
+
+12. Configuration should be added to ignore a particular process name being down even if the errstr points to it being down (eg for above process name is recorddispatcher '
+and there should be some mechanism which can ignore this process name as error if need be)
+
+13 Like time also include for ignoreprocessname=true/false
+
+*** Generalised VBM-NMS features ***
+
+14.errstr should respond to contains(errstr) and not equals(errstr)
+
+15.Remove all occurances of the word error

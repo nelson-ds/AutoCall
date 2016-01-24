@@ -1,0 +1,20 @@
+You have recieved some OTHER MAIL *NOT* having the SENDER you specified
+Sent by:- "TALENT-ACQUISITION@SUBEXWORLD.COM" <TALENT-ACQUISITION@SUBEXWORLD.COM>
+having subject line:- REFERAL ACKNOWLEDGEMENT
+on date:- 2011/Nov/09 11:07:48
+
+
+*************************************************************
+
+The mail filtering details are as follows:- 
+Senders name is:- NELSON
+Subject is:- not specified
+
+*************************************************************
+
+The mail parsing details are as follows:- 
+Mail line specified by user should contain the string:- "MONM-000011: PROCESS COUNT (0) IS NOT EQUAL TO EXPECTED PROCESS COUNT OF (="
+Sequence by which mail line should begin is:- "RESULTS FOR SEARCH TEXT"
+Sequence by which mail line should end is:-  "!"
+
+*************************************************************

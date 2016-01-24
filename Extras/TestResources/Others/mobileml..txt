@@ -1,0 +1,304 @@
+X-Account-Key: account2
+X-UIDL: 740
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+Received: from EX60.exchserver.com (10.7.5.154) by EX13-N05.exchserver.com
+ (10.7.40.162) with Microsoft SMTP Server id 8.3.159.2; Fri, 4 Nov 2011
+ 02:04:11 -0400
+Received: from [127.0.0.1] ([164.164.82.29]) by EX60.exchserver.com with
+ Microsoft SMTPSVC(6.0.3790.3959);	 Fri, 4 Nov 2011 02:04:10 -0400
+From: Nelson Dsouza <nelson.dsouza@subex.com>
+To: Nelson Inas Dsouza <nelson.dsouza@subex.com>
+Date: Fri, 4 Nov 2011 02:04:05 -0400
+Subject: mobil
+Thread-Topic: mobil
+Thread-Index: Acyat5Ja1M0XgircTqifouC8Jtngsw==
+Message-ID: <4EB38055.2050503@subex.com>
+Reply-To: Nelson Inas Dsouza <nelson.dsouza@subex.com>
+Accept-Language: en-US, en-CA
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: EX13-N05.exchserver.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: 0
+X-MS-TNEF-Correlator:
+x-crx-noroute: SMTP reroute not required
+user-agent: Thunderbird 1.5 (Windows/20051201)
+x-originalarrivaltime: 04 Nov 2011 06:04:10.0476 (UTC)
+ FILETIME=[91EC0AC0:01CC9AB7]
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Completion Date: 9/27/2011  Time: 6:30:1 EET
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+                                     /------------ COUNTS -------------\
+
+Hostname   Subsystem        Time         Info     Warn    Error   Failed
+Status
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=
+=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D
+nikirapp   cdr              06:30:01        0        0        2        0
+ERROR
+nikirapp   ds_MPayment      06:30:01        0        0        0        0 OK
+nikirapp   ds_cdr           06:30:01        0        0        0        0 OK
+nikirapp   ds_crmloyalty    06:30:01        0        0        0        0 OK
+nikirapp   ds_gprs          06:30:01        0        0        0        0 OK
+nikirapp   ds_nrtrde        06:30:01        0        0        0        0 OK
+nikirapp   ds_sms           06:30:01        0        0        0        0 OK
+nikirapp   ds_tapin         06:30:01        0        0        0        0 OK
+nikirapp   general          06:30:01        0        0        5        0
+ERROR
+nikirapp   spark_subscriber 06:30:01        0        0        0        0 OK
+nikirapp   subscriber       06:30:01        0        0        1        0
+ERROR
+nikirapp   subscriber_prepr 06:30:01        0        0        0        0 OK
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+HOSTNAME:  nikirapp     DETAILS OF /nikira/EAM/mast_logs/nikirapp/ERROR.log
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check Ranger core Processes        Check Status:  ERROR
+Check Time:  Tue Sep 27 06:30:01 2011 EET       Hostname: nikirapp
+XML File:    continuous.xml     Routine: FCStd::CountProcesses
+..........................................................................=
+..
+Results for search text =3D (programmanager)
+  Exception : (NA)
+  Owner   :  (nikira)   Optional Flag: (N)   Ignore Child: (N)
+  Criteria:  (=3D1)   Enabled Flag (TRUE)   Server Name (nikirapp)
+  PID Files: (NA)
+  State for violations: (ERROR)
+MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=
+=3D
+1)!
+
+Process Details
+---------------
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check Ranger core Processes        Check Status:  ERROR
+Check Time:  Tue Sep 27 06:30:01 2011 EET       Hostname: nikirapp
+XML File:    continuous.xml     Routine: FCStd::CountProcesses
+..........................................................................=
+..
+Results for search text =3D (recorddispatcher)
+  Exception : (NA)
+  Owner   :  (nikira)   Optional Flag: (N)   Ignore Child: (N)
+  Criteria:  (=3D5)   Enabled Flag (TRUE)   Server Name (nikirapp)
+  PID Files: (NA)
+  State for violations: (ERROR)
+MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=
+=3D
+5)!
+
+Process Details
+---------------
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check Ranger core Processes        Check Status:  ERROR
+Check Time:  Tue Sep 27 06:30:01 2011 EET       Hostname: nikirapp
+XML File:    continuous.xml     Routine: FCStd::CountProcesses
+..........................................................................=
+..
+Results for search text =3D (recordprocessor)
+  Exception : (NA)
+  Owner   :  (nikira)   Optional Flag: (N)   Ignore Child: (N)
+  Criteria:  (=3D29)   Enabled Flag (TRUE)   Server Name (nikirapp)
+  PID Files: (NA)
+  State for violations: (ERROR)
+MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=
+=3D
+29)!
+
+Process Details
+---------------
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check Ranger core Processes        Check Status:  ERROR
+Check Time:  Tue Sep 27 06:30:01 2011 EET       Hostname: nikirapp
+XML File:    continuous.xml     Routine: FCStd::CountProcesses
+..........................................................................=
+..
+Results for search text =3D (smartpatternprocessor)
+  Exception : (NA)
+  Owner   :  (nikira)   Optional Flag: (N)   Ignore Child: (N)
+  Criteria:  (=3D1)   Enabled Flag (TRUE)   Server Name (nikirapp)
+  PID Files: (NA)
+  State for violations: (ERROR)
+MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=
+=3D
+1)!
+
+Process Details
+---------------
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check Ranger core Processes        Check Status:  ERROR
+Check Time:  Tue Sep 27 06:30:01 2011 EET       Hostname: nikirapp
+XML File:    continuous.xml     Routine: FCStd::CountProcesses
+..........................................................................=
+..
+Results for search text =3D (alarmgenerator)
+  Exception : (NA)
+  Owner   :  (nikira)   Optional Flag: (N)   Ignore Child: (N)
+  Criteria:  (=3D1)   Enabled Flag (TRUE)   Server Name (nikirapp)
+  PID Files: (NA)
+  State for violations: (ERROR)
+MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=
+=3D
+1)!
+
+Process Details
+---------------
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check Dispatcher1 Backlog  Check Status:  ERROR
+Check Time:  Tue Sep 27 06:30:01 2011 EET       Hostname: nikirapp
+XML File:    continuous.xml     Routine: FCSwitches::FilesBacklog
+..........................................................................=
+..
+Check Dir: /nikira/NIKIRAROOT/RangerData/DataRecord1/Process/
+  File Pattern: *
+
+***** THRESHOLD VALUES (defaults) *****
+  MaxFilesINFO: NA   MaxFilesWARNING: 10   MaxFilesERROR: 15
+  MaxAgeHoursINFO: NA   MaxAgeHoursWARNING: NA   MaxAgeHoursERROR: 1
+  MaxFilesSameOldest: 10
+  SameOldestINFO: NA   SameOldestWARNING: NA   SameOldestERROR: 50M
+***** END OF THRESHOLDS *****
+
+MONM-005205 (ERROR): matching File count (139) > max of (15)
+  Check the backlog in DataRecord1
+MONM-005207 (ERROR): matching File FMS3_270489_T1
+  age hours of (4) > max of (1)
+  Check the backlog in DataRecord1
+MONM-005216: (OK) No prior same_oldest_work_file record for this directory
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check Dispatcher2 Backlog  Check Status:  ERROR
+Check Time:  Tue Sep 27 06:30:01 2011 EET       Hostname: nikirapp
+XML File:    continuous.xml     Routine: FCSwitches::FilesBacklog
+..........................................................................=
+..
+Check Dir: /nikira/NIKIRAROOT/RangerData/DataRecord2/Process/
+  File Pattern: *
+
+***** THRESHOLD VALUES (defaults) *****
+  MaxFilesINFO: NA   MaxFilesWARNING: 10   MaxFilesERROR: 15
+  MaxAgeHoursINFO: NA   MaxAgeHoursWARNING: NA   MaxAgeHoursERROR: 1
+  MaxFilesSameOldest: 10
+  SameOldestINFO: NA   SameOldestWARNING: NA   SameOldestERROR: 50M
+***** END OF THRESHOLDS *****
+
+MONM-005205 (ERROR): matching File count (118) > max of (15)
+  Check the backlog in DataRecord2
+MONM-005207 (ERROR): matching File FMS1_270490_T2
+  age hours of (4) > max of (1)
+  Check the backlog in DataRecord2
+MONM-005216: (OK) No prior same_oldest_work_file record for this directory
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check Subscriber Backlog   Check Status:  ERROR
+Check Time:  Tue Sep 27 06:30:01 2011 EET       Hostname: nikirapp
+XML File:    continuous.xml     Routine: FCSwitches::FilesBacklog
+..........................................................................=
+..
+Check Dir: /nikira/NIKIRAROOT/RangerData/SubscriberDataRecord/Process
+  File Pattern: *
+
+***** THRESHOLD VALUES (defaults) *****
+  MaxFilesINFO: 1   MaxFilesWARNING: NA   MaxFilesERROR: 1
+  MaxAgeHoursINFO: NA   MaxAgeHoursWARNING: NA   MaxAgeHoursERROR: 1
+  MaxFilesSameOldest: 2
+  SameOldestINFO: NA   SameOldestWARNING: NA   SameOldestERROR: 50M
+***** END OF THRESHOLDS *****
+
+MONM-005205 (ERROR): matching File count (2) > max of (1)
+  Check the backlog in Subscriber
+MONM-005207 (ERROR): matching File
+customers_contracts_092711_024730_092711_023254_5757
+  age hours of (3) > max of (1)
+  Check the backlog in Subscriber
+MONM-005216: (OK) No prior same_oldest_work_file record for this directory
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%=
+%
+%%%%
+%%%%%         End of monitor run at Tue Sep 27 06:30:01 2011
+%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%=
+%
+%%%%
+
+--
+
+Thanks and Regards,
+Nelson Dsouza | Trainee Testing and Configuration
+Subex Limited <http://www.subexworld.com/>
+Subex Limited, Adarsh Tech Park, Outer Ring Road, Bangalore =96 560037,
+India.
+* Office-Phone:* +91 80 6696 3410 |* Mob:* +91 7411270191
+*Email:* nelson.dsouza@subexworld.com
+<mailto:nelson.dsouza@subexworld.com> *
+
+*
+
+
+Disclaimer: This e-mail is bound by the terms and conditions described at h=
+ttp://www.subex.com/mail-disclaimer.html
+

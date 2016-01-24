@@ -1,0 +1,20 @@
+You have recieved some OTHER MAIL *NOT* having the SENDER you specified
+Sent by:- SUBEX CRICKET CLUB <SUBEX-CRICKET-CLUB@SUBEX.COM>
+having subject line:- FINALS : VENUE - PES IT HOSUR ROAD: OPP - VODAFONE : TIME -1000
+on date:- 2011/Dec/09 15:04:06
+
+
+*************************************************************
+
+The mail filtering details are as follows:- 
+Senders name is:- NIKIRA@FRAUD.COM
+Subject is:- not specified
+
+*************************************************************
+
+The mail parsing details are as follows:- 
+Mail line specified by user should contain the string:- "*	0    	<"
+Sequence by which mail line should begin is:- ""
+Sequence by which mail line should end is:-  ""
+
+*************************************************************

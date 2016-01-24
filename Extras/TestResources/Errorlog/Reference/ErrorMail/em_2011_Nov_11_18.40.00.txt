@@ -1,0 +1,27 @@
+Timestamp is: 2011/Nov/11 18:40:00
+The Sender of this mail is: RISHU GOEL <RISHU.GOEL@SUBEX.COM>   
+The Subject line is: QTEL PRODUCTION SERVER STATUS REPORT   
+The error lines are as follows:- 
+
+
+
+****************************   DONE   *********************************
+
+Total number of errors are:0
+
+
+*************************************************************
+
+The mail filtering details are as follows:- 
+Senders name is:- not specified
+Subject is:- QTEL PRODUCTION SERVER STATUS REPORT
+
+
+*************************************************************
+
+The mail parsing details are as follows:- 
+Mail line specified by user should contain the string:- "*0<"
+Sequence by which mail line should begin is:- ""
+Sequence by which mail line should end is:-  ""
+
+*************************************************************

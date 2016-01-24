@@ -1,0 +1,20 @@
+You have recieved some OTHER MAIL *NOT* having the SENDER you specified
+Sent by:- MARIA EUGENIA PERALTA <MEPERALTA@CLARO.COM.AR>
+having subject line:- RE: NEXT SET OF CRS
+on date:- 2011/Dec/13 14:32:19
+
+
+*************************************************************
+
+The mail filtering details are as follows:- 
+Senders name is:- NIKIRA@FRAUD.COM
+Subject is:- not specified
+
+*************************************************************
+
+The mail parsing details are as follows:- 
+Mail line specified by user should contain the string:- "*	0    	<"
+Sequence by which mail line should begin is:- ""
+Sequence by which mail line should end is:-  ""
+
+*************************************************************

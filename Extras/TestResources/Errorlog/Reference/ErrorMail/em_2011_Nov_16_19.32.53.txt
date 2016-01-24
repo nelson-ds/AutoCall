@@ -1,0 +1,31 @@
+Timestamp is: 2011/Nov/16 19:32:53
+The Sender of this mail is: RISHU GOEL <RISHU.GOEL@SUBEX.COM>
+The Subject line is: NIKIRA : PRODUCTION: FULL(PAGE) MONITOR SUMMARY.  STATUS IS ERROR
+The error lines are as follows:- 
+
+MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   7)!   MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   
+3)!   MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   1)!   
+2)!   MONM-000013: Process count (3) <=3D expected process count of (> 26)!   MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   
+25)!   MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   12)!   
+
+
+****************************   DONE   *********************************
+
+Total number of errors are:4
+
+
+*************************************************************
+
+The mail filtering details are as follows:- 
+Senders name is:- not specified
+Subject is:- NIKIRA : PRODUCTION: FULL(PAGE) MONITOR SUMMARY.  STATUS IS ERROR
+
+
+*************************************************************
+
+The mail parsing details are as follows:- 
+Mail line specified by user should contain the string:- "MONM-000011: PROCESS COUNT (0) IS NOT EQUAL TO EXPECTED PROCESS COUNT OF (="
+Sequence by which mail line should begin is:- "RESULTS FOR SEARCH TEXT = "
+Sequence by which mail line should end is:-  "!"
+
+*************************************************************

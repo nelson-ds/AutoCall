@@ -1,0 +1,36 @@
+Timestamp is: 2011/Dec/12 15:13:42
+The Sender of this mail is: RISHU GOEL <RISHU.GOEL@SUBEX.COM>
+The Subject line is: FW: NIKIRA : PRODUCTION: FULL(PAGE) MONITOR SUMMARY.  STATUS IS
+The error lines are as follows:- 
+
+Results for search text =3D (recorddispatcher^\/DataRecord)   MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   7)!   
+Results for search text =3D (recorddispatcher^SubscriberDataRecord)   MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   3)!   
+Results for search text =3D (recordloader.rb)   MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   1)!   
+
+
+
+
+Results for search text =3D (recordprocessor^SYSTEM_RULES)   MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   25)!   
+Results for search text =3D (recordprocessor^SUBSCRIBER\.STORE)   MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   12)!   
+
+
+****************************   DONE   *********************************
+
+Total number of errors are:5
+
+
+*************************************************************
+
+The mail filtering details are as follows:- 
+Senders name is:- not specified
+Subject is:- NIKIRA : PRODUCTION: FULL(PAGE) MONITOR SUMMARY.  STATUS 
+
+
+*************************************************************
+
+The mail parsing details are as follows:- 
+Mail line specified by user should contain the string:- "MONM-000011: PROCESS COUNT (0) IS NOT EQUAL TO EXPECTED PROCESS COUNT OF (="
+Sequence by which mail line should begin is:- "RESULTS FOR SEARCH TEXT ="
+Sequence by which mail line should end is:-  "!"
+
+*************************************************************

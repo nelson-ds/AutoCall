@@ -1,0 +1,51 @@
+Timestamp is: 2011/Nov/11 17:55:39
+X-Account-Key: account2   X-UIDL: 13856   X-Mozilla-Status: 0000   
+X-Mozilla-Status2: 02000000   Received: from EX60A.exchserver.com (10.7.5.154) by EX13-N02.exchserver.com    (10.7.40.172) with Microsoft SMTP Server id 8.3.159.2; Fri, 11 Nov 2011   
+ 04:41:31 -0500   Received: from rishug ([14.96.96.146]) by EX60A.exchserver.com with Microsoft    SMTPSVC(6.0.3790.3959);	 Fri, 11 Nov 2011 04:41:31 -0500   
+The Sender of this mail is: RISHU GOEL <RISHU.GOEL@SUBEX.COM>   
+From: Rishu Goel <rishu.goel@subex.com>   To: Rishu Goel <rishu.goel@subex.com>   Date: Fri, 11 Nov 2011 04:41:25 -0500   
+The Subject line is: QTEL PRODUCTION SERVER STATUS REPORT   
+The error lines are as follows:- 
+
+Subject: Qtel Production Server Status Report   Thread-Topic: Qtel Production Server Status Report   Thread-Index: AcygUH+bz77c2C8PQh2AoxcyVGFQMQABGAEgAAAtnyAAABkfIA==   
+Message-ID: <05C4F0D93FA743B3AD1C60A7CABEFF64@subexworld.org>   Reply-To: Rishu Goel <rishu.goel@subex.com>   Accept-Language: en-US   
+Content-Language: en-US   X-MS-Exchange-Organization-AuthAs: Anonymous   X-MS-Exchange-Organization-AuthSource: EX13-N02.exchserver.com   
+X-MS-Has-Attach:   X-MS-Exchange-Organization-SCL: 0   X-MS-TNEF-Correlator:   
+x-crx-noroute: SMTP reroute not required   x-originalarrivaltime: 11 Nov 2011 09:41:31.0614 (UTC)    FILETIME=[17F007E0:01CCA056]   
+Content-Type: text/plain; charset="us-ascii"   Content-Transfer-Encoding: quoted-printable   MIME-Version: 1.0   
+         
+        ACTL            NORM    PROGRAM           1       =3D       1       sparksc             PIDS: 16965   
+        1       =3D       1       sparktc             PIDS: 14776           1       =3D       1       qtelsubscriberpreprocessor   
+          PIDS: 16970           1       =3D       1       qtelcdrhashdatasplitter.sh             PIDS: 14764   
+        1       =3D       1       qtelstitcher             PIDS: 16943   *       0       <       7       RecordDispatcher   
+          (expecting =3D 7)             PIDS:   ***SLAVE***   *       0       <       33      RecordProcessor   
+          (expecting =3D 33)             PIDS:   ***SLAVE***   *       0       <       6       CounterManager   
+          (expecting =3D 6)             PIDS:   ***SLAVE***           1       =3D       1       DBWriter   
+          PIDS: 14736           1       =3D       1       RecordLoader             PIDS: 14763   
+*       0       <       1       ProgramManager             (expecting =3D 1)             PIDS:   
+*       12      <       13      NikiraClient             (expecting =3D 13)             PIDS: 20797 14629 1007 1084 998 8258 17129 23181 9147 1009 989   
+15474           1       =3D       1       Reporting Server_safe_mysqld             PIDS: 14778   
+        1       =3D       1       sparkclient             PIDS: 14774      
+      Disclaimer: This e-mail is bound by the terms and conditions described at h=   
+ttp://www.subex.com/mail-disclaimer.html      
+
+****************************   DONE   *********************************
+
+Total number of errors are:24
+
+
+*************************************************************
+
+The mail filtering details are as follows:- 
+Senders name is:- not specified
+Subject is:- QTEL PRODUCTION SERVER STATUS REPORT
+
+
+*************************************************************
+
+The mail parsing details are as follows:- 
+Mail line specified by user should contain the string:- "*0<"
+Sequence by which mail line should begin is:- ""
+Sequence by which mail line should end is:-  ""
+
+*************************************************************

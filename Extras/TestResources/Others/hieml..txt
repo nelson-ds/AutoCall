@@ -1,0 +1,52 @@
+X-Account-Key: account2
+X-UIDL: 741
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+Received: from EX60.exchserver.com (10.7.5.154) by EX13-N04.exchserver.com
+ (10.7.40.182) with Microsoft SMTP Server id 8.3.159.2; Fri, 4 Nov 2011
+ 02:05:04 -0400
+Received: from [127.0.0.1] ([164.164.82.29]) by EX60.exchserver.com with
+ Microsoft SMTPSVC(6.0.3790.3959);	 Fri, 4 Nov 2011 02:05:03 -0400
+From: Nelson Dsouza <nelson.dsouza@subex.com>
+To: Nelson Inas Dsouza <nelson.dsouza@subex.com>
+Date: Fri, 4 Nov 2011 02:04:59 -0400
+Subject: hi
+Thread-Topic: hi
+Thread-Index: Acyat7JjjSBKahGvTL+h5j+Y7mxv0Q==
+Message-ID: <4EB3808B.7000709@subex.com>
+Reply-To: Nelson Inas Dsouza <nelson.dsouza@subex.com>
+Accept-Language: en-US, en-CA
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: EX13-N04.exchserver.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: 0
+X-MS-TNEF-Correlator:
+x-crx-noroute: SMTP reroute not required
+user-agent: Thunderbird 1.5 (Windows/20051201)
+x-originalarrivaltime: 04 Nov 2011 06:05:04.0305 (UTC)
+ FILETIME=[B201B210:01CC9AB7]
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+hi
+hello
+bye
+--
+
+Thanks and Regards,
+Nelson Dsouza | Trainee Testing and Configuration
+Subex Limited <http://www.subexworld.com/>
+Subex Limited, Adarsh Tech Park, Outer Ring Road, Bangalore =96 560037,
+India.
+* Office-Phone:* +91 80 6696 3410 |* Mob:* +91 7411270191
+*Email:* nelson.dsouza@subexworld.com
+<mailto:nelson.dsouza@subexworld.com> *
+
+*
+
+
+Disclaimer: This e-mail is bound by the terms and conditions described at h=
+ttp://www.subex.com/mail-disclaimer.html
+

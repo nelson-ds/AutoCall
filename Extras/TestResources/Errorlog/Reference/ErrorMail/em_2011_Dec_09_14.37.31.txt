@@ -1,0 +1,28 @@
+Timestamp is: 2011/Dec/09 14:37:31
+The Sender of this mail is: "NIKIRA@FRAUD.COM" <NIKIRA@FRAUD.COM>
+The Subject line is: NOT DISPLAYED
+The error lines are as follows:- 
+
+*	0    	<	1    	DBWriter1                              =20   
+
+
+****************************   DONE   *********************************
+
+Total number of errors are:1
+
+
+*************************************************************
+
+The mail filtering details are as follows:- 
+Senders name is:- NIKIRA@FRAUD.COM
+Subject is:- not specified
+
+
+*************************************************************
+
+The mail parsing details are as follows:- 
+Mail line specified by user should contain the string:- "*	0    	<"
+Sequence by which mail line should begin is:- ""
+Sequence by which mail line should end is:-  ""
+
+*************************************************************

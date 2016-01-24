@@ -1,0 +1,22 @@
+Timestamp is: 2011/Sep/30 16:46:31
+The customer name is: Mobinil   
+Results for search text =3D (programmanager)   MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   1)!   
+Total number of errors are:1Timestamp is: 2011/Sep/30 16:46:41
+The customer name is: Mobinil   
+Results for search text =3D (programmanager)   MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   1)!   
+Total number of errors are:1Timestamp is: 2011/Sep/30 16:46:51
+The customer name is: Mobinil   
+Results for search text =3D (programmanager)   MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   1)!   
+Total number of errors are:1Timestamp is: 2011/Sep/30 16:47:01
+The customer name is: Mobinil   
+Results for search text =3D (programmanager)   MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   1)!   
+Total number of errors are:1Timestamp is: 2011/Sep/30 16:47:11
+The customer name is: Mobinil   
+Results for search text =3D (programmanager)   MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   1)!   
+Total number of errors are:1Timestamp is: 2011/Sep/30 16:47:21
+The customer name is: Mobinil   
+Results for search text =3D (programmanager)   MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   1)!   
+Total number of errors are:1Timestamp is: 2011/Sep/30 16:47:31
+The customer name is: Mobinil   
+Results for search text =3D (programmanager)   MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=   1)!   
+Total number of errors are:1

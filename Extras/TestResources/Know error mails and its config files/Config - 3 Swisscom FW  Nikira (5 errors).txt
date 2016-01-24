@@ -1,0 +1,346 @@
+X-Account-Key: account2
+X-UIDL: 834
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+Received: from EX60.exchserver.com (10.7.5.154) by EX13-N02.exchserver.com
+ (10.7.40.172) with Microsoft SMTP Server id 8.3.159.2; Wed, 16 Nov 2011
+ 09:06:27 -0500
+Received: from rishug ([164.164.82.29]) by EX60.exchserver.com with Microsoft
+ SMTPSVC(6.0.3790.3959);	 Wed, 16 Nov 2011 09:06:26 -0500
+From: Rishu Goel <rishu.goel@subex.com>
+To: Nelson Inas Dsouza <nelson.dsouza@subex.com>
+Date: Wed, 16 Nov 2011 09:06:20 -0500
+Subject: FW: Nikira : Production: full(PAGE) Monitor summary.  Status is
+ ERROR
+Thread-Topic: Nikira : Production: full(PAGE) Monitor summary.  Status is
+ ERROR
+Thread-Index: Acyg53HpZVnvwXRTQLWWlhSUfU+A9ADgHI7gAAARuGAAAC2I0A==
+Message-ID: <343BB702D0914F9B831B3E72174695EA@subexworld.org>
+Reply-To: Rishu Goel <rishu.goel@subex.com>
+Accept-Language: en-US, en-CA
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: EX13-N02.exchserver.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: 0
+X-MS-TNEF-Correlator:
+x-crx-noroute: SMTP reroute not required
+x-originalarrivaltime: 16 Nov 2011 14:06:27.0307 (UTC)
+ FILETIME=[EE930BB0:01CCA468]
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Completion Date: 11/12/2011  Time: 4:1:9 CEST
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+                                     /------------ COUNTS -------------\
+
+Hostname   Subsystem        Time         Info     Warn    Error   Failed
+Status
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=
+=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D =3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D
+spofmap1v  cdr              04:01:09        0        3        3        0
+ERROR
+spofmap1v  database         04:01:09        0        0        0        0 OK
+spofmap1v  general          04:01:09        0        0        7        0
+ERROR
+spofmap1v  system           04:01:09        0        0        0        0 OK
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+HOSTNAME:  spofmap1v    DETAILS OF /nikira/EAM/mast_logs/spofmap1v/ERROR.lo=
+g
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check Ranger core Processes        Check Status:  ERROR
+Check Time:  Sat Nov 12 04:00:24 2011 CET       Hostname: spofmap1v
+XML File:    continuous.xml     Routine: FCStd::CountProcesses
+..........................................................................=
+..
+Results for search text =3D (recorddispatcher^\/DataRecord)
+  Exception : (Wrong Dispatcher Count)
+  Owner   :  (nikira)   Optional Flag: (N)   Ignore Child: (N)
+  Criteria:  (=3D7)   Enabled Flag (TRUE)   Server Name (spofmap1v)
+  PID Files: (NA)
+  State for violations: (ERROR)
+MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=
+=3D
+7)!
+
+Process Details
+---------------
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check Ranger core Processes        Check Status:  ERROR
+Check Time:  Sat Nov 12 04:00:24 2011 CET       Hostname: spofmap1v
+XML File:    continuous.xml     Routine: FCStd::CountProcesses
+..........................................................................=
+..
+Results for search text =3D (recorddispatcher^SubscriberDataRecord)
+  Exception : (Subscriber Dispatcher Exception)
+  Owner   :  (nikira)   Optional Flag: (N)   Ignore Child: (N)
+  Criteria:  (=3D3)   Enabled Flag (TRUE)   Server Name (spofmap1v)
+  PID Files: (NA)
+  State for violations: (ERROR)
+MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=
+=3D
+3)!
+
+Process Details
+---------------
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check Ranger core Processes        Check Status:  ERROR
+Check Time:  Sat Nov 12 04:00:24 2011 CET       Hostname: spofmap1v
+XML File:    continuous.xml     Routine: FCStd::CountProcesses
+..........................................................................=
+..
+Results for search text =3D (recordloader.rb)
+  Exception : (Record Loader Exception)
+  Owner   :  (nikira)   Optional Flag: (N)   Ignore Child: (N)
+  Criteria:  (=3D1)   Enabled Flag (TRUE)   Server Name (spofmap1v)
+  PID Files: (NA)
+  State for violations: (ERROR)
+MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=
+=3D
+1)!
+
+Process Details
+---------------
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check Ranger core Processes        Check Status:  ERROR
+Check Time:  Sat Nov 12 04:00:24 2011 CET       Hostname: spofmap1v
+XML File:    continuous.xml     Routine: FCStd::CountProcesses
+..........................................................................=
+..
+Results for search text =3D (dbwriter)
+  Exception : (DB Writer Exception)
+  Owner   :  (nikira)   Optional Flag: (N)   Ignore Child: (N)
+  Criteria:  (=3D2)   Enabled Flag (TRUE)   Server Name (spofmap1v)
+  PID Files: (NA)
+  State for violations: (ERROR)
+MONM-000011: Process count (1) is NOT EQUAL to expected process count of (=
+=3D
+2)!
+
+Process Details
+---------------
+  nikira  27171  26668   0   Nov 04 ?         88 dbwriter -r
+/nikira/NIKIRAROOT/RangerData/RWDBWriterData/ -s
+/nikira/NIKIRAROOT/RangerData/RecordLoaderData/
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check Ranger core Processes        Check Status:  ERROR
+Check Time:  Sat Nov 12 04:00:24 2011 CET       Hostname: spofmap1v
+XML File:    continuous.xml     Routine: FCStd::CountProcesses
+..........................................................................=
+..
+Results for search text =3D (countermanager)
+  Exception : (Counter Manager Exception)
+  Owner   :  (nikira)   Optional Flag: (N)   Ignore Child: (N)
+  Criteria:  (>26)   Enabled Flag (TRUE)   Server Name (spofmap1v)
+  PID Files: (NA)
+  State for violations: (ERROR)
+MONM-000013: Process count (3) <=3D expected process count of (> 26)!
+
+Process Details
+---------------
+  nikira  11005  12596   0 03:40:40 ?          22
+/nikira/NIKIRAROOT/sbin/countermanager -r TCP://127.0.0.1:50203 -i 203 -t 3
+-p 6 -z 2011/11/10 23:59
+  nikira  26945  26668   0   Nov 04 ?           countermanager -r
+TCP://1270.0.1:50020 -i 20 -t 0
+  nikira  26947  26668   0   Nov 04 ?           countermanager -r
+TCP://1270.0.1:50022 -i 22 -t 0
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check Ranger core Processes        Check Status:  ERROR
+Check Time:  Sat Nov 12 04:00:24 2011 CET       Hostname: spofmap1v
+XML File:    continuous.xml     Routine: FCStd::CountProcesses
+..........................................................................=
+..
+Results for search text =3D (recordprocessor^SYSTEM_RULES)
+  Exception : (CDR Processor Exception)
+  Owner   :  (nikira)   Optional Flag: (N)   Ignore Child: (N)
+  Criteria:  (=3D25)   Enabled Flag (TRUE)   Server Name (spofmap1v)
+  PID Files: (NA)
+  State for violations: (ERROR)
+MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=
+=3D
+25)!
+
+Process Details
+---------------
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check Ranger core Processes        Check Status:  ERROR
+Check Time:  Sat Nov 12 04:00:24 2011 CET       Hostname: spofmap1v
+XML File:    continuous.xml     Routine: FCStd::CountProcesses
+..........................................................................=
+..
+Results for search text =3D (recordprocessor^SUBSCRIBER\.STORE)
+  Exception : (Subscriber Processor Exception)
+  Owner   :  (nikira)   Optional Flag: (N)   Ignore Child: (N)
+  Criteria:  (=3D12)   Enabled Flag (TRUE)   Server Name (spofmap1v)
+  PID Files: (NA)
+  State for violations: (ERROR)
+MONM-000011: Process count (0) is NOT EQUAL to expected process count of (=
+=3D
+12)!
+
+Process Details
+---------------
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check Rated Wireless DBWriterData success Backlog  Check
+Status:  ERROR
+Check Time:  Sat Nov 12 04:00:56 2011 CET       Hostname: spofmap1v
+XML File:    backlog.xml        Routine: FCSwitches::FilesBacklog
+..........................................................................=
+..
+Check Dir: /nikira/NIKIRAROOT/RangerData/RWDBWriterData/success
+  File Pattern: *
+
+***** THRESHOLD VALUES (defaults) *****
+  MaxFilesINFO: NA   MaxFilesWARNING: 1000   MaxFilesERROR: 3000
+  MaxAgeHoursINFO: NA   MaxAgeHoursWARNING: 4   MaxAgeHoursERROR: NA
+  MaxFilesSameOldest: 125
+  SameOldestINFO: NA   SameOldestWARNING: NA   SameOldestERROR: NA
+***** END OF THRESHOLDS *****
+
+MONM-005205 (ERROR): matching File count (36806) > max of (3000)
+  Check the programmanager Process
+MONM-005207 (WARNING): matching File
+FM_GSM_CDZWEETCHEC104354_354388_250485out.gz_3_3
+  age hours of (7) > max of (4)
+  Check the programmanager Process
+MONM-005216: (OK) No prior same_oldest_work_file record for this directory
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check RatedDataRecord_3 success Backlog    Check Status:  ERRO=
+R
+Check Time:  Sat Nov 12 04:01:04 2011 CET       Hostname: spofmap1v
+XML File:    backlog.xml        Routine: FCSwitches::FilesBacklog
+..........................................................................=
+..
+Check Dir: /nikira/NIKIRAROOT/RangerData/RatedDataRecord_3/Process/success
+  File Pattern: *
+
+***** THRESHOLD VALUES (defaults) *****
+  MaxFilesINFO: NA   MaxFilesWARNING: 1000   MaxFilesERROR: 3000
+  MaxAgeHoursINFO: NA   MaxAgeHoursWARNING: 4   MaxAgeHoursERROR: NA
+  MaxFilesSameOldest: 125
+  SameOldestINFO: NA   SameOldestWARNING: NA   SameOldestERROR: NA
+***** END OF THRESHOLDS *****
+
+MONM-005205 (ERROR): matching File count (3310) > max of (3000)
+  Check the programmanager Process
+MONM-005208 (OK): Oldest matching file
+FM_GSM_BEIUK_TTFILE10_20111111171537-8527_485468.out.gz_3
+  is (4) hours old
+MONM-005216: (OK) No prior same_oldest_work_file record for this directory
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+=3D=3D=3D=3D
+Check Name:  Check RatedDataRecord_4 success Backlog    Check Status:  ERRO=
+R
+Check Time:  Sat Nov 12 04:01:05 2011 CET       Hostname: spofmap1v
+XML File:    backlog.xml        Routine: FCSwitches::FilesBacklog
+..........................................................................=
+..
+Check Dir: /nikira/NIKIRAROOT/RangerData/RatedDataRecord_4/Process/success
+  File Pattern: *
+
+***** THRESHOLD VALUES (defaults) *****
+  MaxFilesINFO: NA   MaxFilesWARNING: 1000   MaxFilesERROR: 3000
+  MaxAgeHoursINFO: NA   MaxAgeHoursWARNING: 4   MaxAgeHoursERROR: NA
+  MaxFilesSameOldest: 125
+  SameOldestINFO: NA   SameOldestWARNING: NA   SameOldestERROR: NA
+***** END OF THRESHOLDS *****
+
+MONM-005205 (ERROR): matching File count (3657) > max of (3000)
+  Check the programmanager Process
+MONM-005207 (WARNING): matching File
+FM_GSM_ZHHZK_TTFILE10_20111111161123-8584_467888.out.gz_4
+  age hours of (5) > max of (4)
+  Check the programmanager Process
+MONM-005216: (OK) No prior same_oldest_work_file record for this directory
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%=
+%
+%%%%
+%%%%%         End of monitor run at Sat Nov 12 04:01:09 2011
+%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%=
+%
+%%%%
+
+
+
+
+Disclaimer: This e-mail is bound by the terms and conditions described at h=
+ttp://www.subex.com/mail-disclaimer.html
+

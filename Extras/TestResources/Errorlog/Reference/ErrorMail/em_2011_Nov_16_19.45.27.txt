@@ -1,0 +1,27 @@
+Timestamp is: 2011/Nov/16 19:45:27
+The Sender of this mail is: RISHU GOEL <RISHU.GOEL@SUBEX.COM>
+The Subject line is: FW: NIKIRA : PRODUCTION: FULL(PAGE) MONITOR SUMMARY.  STATUS IS
+The error lines are as follows:- 
+
+Results for search text =3D (recorddispatcher^\/DataRecord)   
+
+****************************   DONE   *********************************
+
+Total number of errors are:0
+
+
+*************************************************************
+
+The mail filtering details are as follows:- 
+Senders name is:- not specified
+Subject is:- NIKIRA : PRODUCTION: FULL(PAGE) MONITOR SUMMARY.  STATUS 
+
+
+*************************************************************
+
+The mail parsing details are as follows:- 
+Mail line specified by user should contain the string:- "MONM-000011: PROCESS COUNT (0) IS NOT EQUAL TO EXPECTED PROCESS COUNT OF (="
+Sequence by which mail line should begin is:- "RESULTS FOR SEARCH TEXT ="
+Sequence by which mail line should end is:-  "!"
+
+*************************************************************
