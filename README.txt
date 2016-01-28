@@ -1,7 +1,7 @@
 ***** Beatle-VBM(Voice Based Monitoring) - Version 2.0 *****
 ***** Developed by Nelson Dsouza *****
 ***** April@2012 *****
-____________________________________________________________________________________________________________________________
+___________________________________________________________________________
 
 ***Installation***
 
@@ -12,7 +12,7 @@ ________________________________________________________________________________
 5. Install freetts (Instructions in the folder Beatle-VBM V1.1_Beta Clien\freetts-1.2.2-bin)
 6. Configure Beatle-VBM properties by editing the "config.properties" file
 7. Run Beatle-VBM V1.1_Beta.bat and enjoy a good nights sleep !!
-____________________________________________________________________________________________________________________________
+___________________________________________________________________________
 
 ***Version log***
 
@@ -26,12 +26,12 @@ Changes
 4.Added functionality of not using the call option at the timings specified in the configurration file (for those who want to get their 4 winks for the night).
 5.Name changed from Beatle-NMS (Night Monitoring System) to Beatle-VBM (Voice Based Monitoring) due to copyright infringement issues (#%#@arghhh).
 6.Fixed numerous bugs (The name of the software should be hint enough to know its riddled with bugs :P).
-____________________________________________________________________________________________________________________________
+___________________________________________________________________________
 
 *** Acknowledgement ***
 
 My friend and colleague, Rishu Goel (rishu.goel@subex.com), for the brainstorming sessions which spouted numerous ideas as well as for the testing burden he shared 
-____________________________________________________________________________________________________________________________
+___________________________________________________________________________
 
 *** Contact ***
 
