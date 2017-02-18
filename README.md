@@ -14,6 +14,7 @@ ___________________________________________________________________________
 5. Install freetts (Instructions in the folder Beatle-VBM V1.1_Beta Clien\freetts-1.2.2-bin)
 6. Configure Beatle-VBM properties by editing the "config.properties" file
 7. Run Beatle-VBM V1.1_Beta.bat and enjoy a good nights sleep !!
+
 ___________________________________________________________________________
 
 ***Version log***
