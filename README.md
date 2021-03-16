@@ -23,12 +23,12 @@ ___________________________________________________________________________
 
 9'th December 2011 - Beatle VBM 1.1 beta release
 Changes
-1.Added functionality for multiple configuration.
-2.Added support for skype based calls.
-3.Added additional filtering options(sender,subject,both,neither).
-4.Added functionality of not using the call option at the timings specified in the configurration file (for those who want to get their 4 winks for the night).
-5.Name changed from Beatle-NMS (Night Monitoring System) to Beatle-VBM (Voice Based Monitoring) due to copyright infringement issues (#%#@arghhh).
-6.Fixed numerous bugs (The name of the software should be hint enough to know its riddled with bugs :P).
+1.Added functionality for multiple configuration
+2.Added support for skype based calls
+3.Added additional filtering options(sender,subject,both,neither)
+4.Added functionality of not using the call option at the timings specified in the configurration file (for those who want to get their 4 winks for the night)
+5.Name changed from Beatle-NMS (Night Monitoring System) to Beatle-VBM (Voice Based Monitoring)
+6.Fixed bugs
 
 ___________________________________________________________________________
 
